@@ -90,6 +90,9 @@ Choose an option from 1-4: 2
 ### Adding and Viewing Tasks
 ![Adding a task](screenshots/todo_example_add.png)
 
+### Viewing Tasks
+![Viewing a task](screenshots/todo_example_view.png)
+
 ### Removing a Task
 ![Removing a task](screenshots/todo_example_remove.png)
 
